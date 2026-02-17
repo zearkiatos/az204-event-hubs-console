@@ -1,0 +1,7 @@
+{
+  "configProperties": {
+    "System.Net.Security.UseManagedNtlm": false,
+    "System.Net.SocketsHttpHandler.Http2Support": true,
+    "System.Net.SocketsHttpHandler.Http2UnencryptedSupport": false
+  }
+}
